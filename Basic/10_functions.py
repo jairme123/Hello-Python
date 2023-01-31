@@ -68,3 +68,5 @@ def print_upper_texts(*texts):
 
 print_upper_texts("Hola", "Python", "MoureDev")
 print_upper_texts("Hola")
+
+nueva linea
